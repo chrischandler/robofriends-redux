@@ -1,7 +1,3 @@
 # robofriends
-Tutorial for udemy course - React
-To run the project:
 
-1. Clone this repo
-2. Run `npm install`
-3. Run `npm start`
+Product to learn how to update an existing application to use Redux to manage state.
